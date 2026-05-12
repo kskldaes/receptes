@@ -4,6 +4,7 @@ Flask web app for recipes
 - Pievieno receptes
 - Parāda recepšu sarakstu
 - Ļauj dzēst receptes
+
 ##Kā palaist
 1. pip install flask
 2. python app.py
